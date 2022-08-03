@@ -14,6 +14,7 @@ def print_tree(array, unit_with=2):
             index += 1
             if index > length - 1:
                 break
+
         width //= 2
         print()
 
